@@ -1,0 +1,18 @@
+{
+  "name": "image_resizer_electronjs",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "image resizer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Adis Aljic",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^22.0.3",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
